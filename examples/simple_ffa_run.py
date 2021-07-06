@@ -1,6 +1,6 @@
 '''An example to show how to set up an pommerman game programmatically'''
 import pommerman
-from pommerman import agents
+from pommerman import acondents
 
 
 def main():
