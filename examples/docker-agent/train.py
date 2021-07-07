@@ -221,7 +221,7 @@ if __name__ == "__main__":
         a
     ]
     env = pommerman.make('PommeFFACompetition-v0', agent_list)
-    num_episodes = 1000
+    num_episodes = 12000
     for i_episode in range(num_episodes):
 
         # Initialize the environment and state
